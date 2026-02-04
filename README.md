@@ -59,7 +59,7 @@ This dataset represents **online quick-commerce orders** (Blinkit-style), not of
 * **Tableau Desktop** – Dashboard creation & visualization
 * **Tableau Prep / Excel** – Data cleaning and transformation
 * **Calculated Fields** – KPIs, ratios, pricing, and performance metrics
-
+![Store Operations](screenshots/tableau.png)
 ---
 
 ## 📈 Dashboard Overview
@@ -107,7 +107,7 @@ This dashboard tracks monthly revenue trends and compares base prices across bra
 
 👉 **[View Complete Tableau Project](Blinkit.twbx)**
 
-This Tableau Packaged Workbook (`.twbx`) contains all dashboards with filters and interactive insights.
+This PDF contains all dashboard views with filters and interactive insights.
 
 ---
 
