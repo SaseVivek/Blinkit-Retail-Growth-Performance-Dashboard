@@ -1,6 +1,6 @@
 # Blinkit Retail Performance Analytics Dashboard 📊
 
-![Dashboard Preview](Image.webp)
+![Dashboard Preview](screenshots/img.jpeg)
 
 ## 📌 Project Overview
 
@@ -73,23 +73,33 @@ For GitHub presentation, the **main dashboards** are highlighted below.
 
 ### 🔹 Store Operations Dashboard
 
-![Store Operations](screenshots/Store_Operations.png)
+This dashboard monitors customer acquisition across platforms, order completion vs cancellation, and store-level performance. It helps evaluate operational efficiency, platform effectiveness, and overall store health.
+
+![Store Operations](screenshots/store_operation.png)
 
 ### 🔹 Value & Product Amounts
 
-![Value & Product Amounts](screenshots/Value_&_product_Amounts.png)
+This dashboard analyzes total order value by payment method and compares product pricing, discounts, and final payable amounts. It helps understand payment preferences and how product pricing and discounts affect revenue.
+
+![Value & Product Amounts](screenshots/value_and_product_amounts.png)
 
 ### 🔹 City Performance Insights
 
-![City Performance](screenshots/City_Performance_Insights.png)
+This dashboard compares customer acquisition, store count, and discount impact across cities. It helps identify top-performing cities, customer reach, and how discounts influence sales at the city level.
+
+![City Performance](screenshots/city_performance_insights.png)
 
 ### 🔹 Market Research Dashboard
 
-![Market Research](screenshots/Market_Research.png)
+This dashboard analyzes product pricing across categories, brands, and top products to identify premium items, pricing differences, and market positioning. It helps understand how pricing varies at category, brand, and product levels for better pricing decisions.
+
+![Market Research](screenshots/market_reaserch.png)
 
 ### 🔹 Pricing & Revenue Overview
 
-![Pricing & Revenue](screenshots/Pricing_&_Revenue_Overview.png)
+This dashboard tracks monthly revenue trends and compares base prices across brands and categories. It helps identify revenue stability, premium brands, and category-wise pricing contribution to overall revenue.
+
+![Pricing & Revenue](screenshots/pricing_and_revenue_overview.png)
 
 ---
 
